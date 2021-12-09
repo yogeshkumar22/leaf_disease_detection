@@ -6,6 +6,7 @@ This repository consists of files required for end to end implementation and dep
 
 ## Table of Contents
   * [About the App](#about-the-app)
+  * [Dataset](#dataset)
   * [Technologies Used](#technologies-used)
   
 
@@ -22,6 +23,8 @@ If you don't have Python installed, you can find it [here](https://www.python.or
 ```bash
 pip install -r requirements.txt
 ```
+## Download Dataset
+[Download](https://www.kaggle.com/kaustubhb999/tomatoleaf)
 
 
 ## Technologies Used
