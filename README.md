@@ -1,6 +1,6 @@
 # Tomato-Leaf-Disease-Detection-
 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-orange.svg)![Keras](https://img.shields.io/badge/Keras-yellow.svg)![Tensorflow](https://img.shields.io/badge/Tensorflow-cyan.svg)
+![Kaggle](https://www.kaggle.com/kaustubhb999/tomatoleaf) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-orange.svg)![Keras](https://img.shields.io/badge/Keras-yellow.svg)![Tensorflow](https://img.shields.io/badge/Tensorflow-cyan.svg)
 
 This repository consists of files required for end to end implementation and deployment of Deep Learning Tomato Leaf Disease Prediction web application deployed with flask.
 
